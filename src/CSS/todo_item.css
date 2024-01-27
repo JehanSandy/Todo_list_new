@@ -1,0 +1,41 @@
+.container_todo_item {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+  padding-block: 1rem;
+  /* width: 40vw; */
+  border-radius: 0.5rem;
+}
+.cart_todo_item {
+  display: flex;
+  /* justify-content: space-around; */
+  align-items: center;
+  gap: 1rem;
+  min-width: 20rem;
+  background-color: black;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+.cont-item {
+  flex-basis: 50%;
+  display: flex;
+}
+.cont-button {
+  display: flex;
+  flex-basis: 50%;
+  /* flex-direction: column; */
+  justify-content: end;
+  /* background-color: aqua; */
+
+  gap: 1rem;
+}
+.cart_todo_item p {
+  margin-bottom: 0rem;
+  padding-bottom: 0rem;
+  margin-top: 0rem;
+  padding-top: 0rem;
+  color: aliceblue;
+}

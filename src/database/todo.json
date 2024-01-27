@@ -1,0 +1,24 @@
+{
+  "aktivitas": [
+    {
+      "id": "e381",
+      "aktivitas": "makan",
+      "keterangan": true
+    },
+    {
+      "id": "f137",
+      "aktivitas": "jajan",
+      "keterangan": true
+    },
+    {
+      "id": "5a18",
+      "aktivitas": "koding",
+      "keterangan": true
+    },
+    {
+      "id": "3e60",
+      "aktivitas": "mumet",
+      "keterangan": false
+    }
+  ]
+}
